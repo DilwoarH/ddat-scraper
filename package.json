@@ -1,0 +1,22 @@
+{
+  "name": "scrape-it",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DilwoarH/ddat-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DilwoarH/ddat-scraper/issues"
+  },
+  "homepage": "https://github.com/DilwoarH/ddat-scraper#readme",
+  "dependencies": {
+    "cheerio-req": "^1.2.3"
+  }
+}

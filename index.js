@@ -2,19 +2,26 @@ const cheerioReq = require("cheerio-req");
 
 cheerioReq("https://www.gov.uk/guidance/software-developer", (err, $) => {
     let data = {
-      title: $("h1").text().trim(),
-      skills: $('.govspeak h2')
-        .map( (index, skill) => {
+      role_title: $("h1").text().trim(),
+      role_levels: $('.govspeak h2')
+        .map( (index, role) => {
           return {
-            title: $(skill).text().trim(),
-            description: $(skill).next('p').text().split('.')[0] + ".",
-            duties: $(skill).next('p').next('ul').find('li').map( (i, duty) => {
+            title: $(role).text().trim(),
+            description: $(role).next('p').text().split('.')[0] + ".",
+            duties: $(role).next('p').next('ul').find('li').map( (i, duty) => {
               return $(duty).text().trim();
             }).toArray(),
+            skills: $(role).next('p').next('ul').next('h3').next('ul').find('li').map( (i, duty) => {
+              return {
+                name: $(duty).find('strong').text().trim(),
+                description: $(duty).text().trim()
+              };
+            }).toArray()
           }
         })
         .toArray()
         .slice(1, -1)
     };
-    console.log(data);
+    console.log(JSON.stringify(data, null, 2));
+    //console.log(data);
 });

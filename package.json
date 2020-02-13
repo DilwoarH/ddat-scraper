@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/DilwoarH/ddat-scraper#readme",
   "dependencies": {
-    "cheerio-req": "^1.2.3"
+    "cheerio-req": "^1.2.3",
+    "json2csv": "^4.5.4"
   }
 }

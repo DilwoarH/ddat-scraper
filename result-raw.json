@@ -1,0 +1,200 @@
+{
+  "family": "Technical job",
+  "title": "Software developer",
+  "levels": [
+    {
+      "title": "Introduction to the role of software developer",
+      "description": "A software developer designs, runs and improves software that meets user needs.",
+      "duties": [
+        "be responsible for writing clean, secure code following a test-driven approach",
+        "create code that is open by default and easy for others to reuse"
+      ],
+      "skills": []
+    },
+    {
+      "title": "Apprentice developer",
+      "description": "An apprentice developer attends certified training and develops skills on the job.",
+      "duties": [
+        "spend a substantial portion of time shadowing others",
+        "work with other developers to write code and tests",
+        "build your own knowledge",
+        "follow a test-driven approach",
+        "write code that is automatically tested"
+      ],
+      "skills": [
+        {
+          "name": "Availability and capacity management",
+          "description": "Availability and capacity management. You can describe availability and capacity management processes. (Relevant skill level: awareness)"
+        },
+        {
+          "name": "Information security",
+          "description": "Information security. You are aware of information security and the security controls that can be used to mitigate security threats within solutions and services. (Relevant skill level: awareness)"
+        },
+        {
+          "name": "Modern standards approach",
+          "description": "Modern standards approach. You can explain the importance of adopting a modern standards approach. (Relevant skill level: awareness)"
+        },
+        {
+          "name": "Programming and build (software engineering)",
+          "description": "Programming and build (software engineering). You can design, code, test, correct and document simple programs or scripts under the direction of others. (Relevant skill level: working)"
+        },
+        {
+          "name": "Prototyping",
+          "description": "Prototyping. You can explain what prototyping is and why and when to use it. You have an understanding of how to work in an open and collaborative environment- for example, by pair-working. (Relevant skill level: awareness)"
+        },
+        {
+          "name": "Service support",
+          "description": "Service support. You can assist in the investigation and resolution of infrastructure problems, undertaking specific activities under the direction of others. (Relevant skill level: awareness)"
+        },
+        {
+          "name": "User focus",
+          "description": "User focus. You know about user experience analysis and its principles. You can explain the purpose of user stories and focus on user needs. (Relevant skill level: awareness)"
+        }
+      ]
+    },
+    {
+      "title": "Junior developer",
+      "description": "A junior developer learns on the job by delivering software components.",
+      "duties": [
+        "develop skills while working under supervision to deliver stories in a multidisciplinary team",
+        "understand and be proficient in different types of testing",
+        "be aware of but not responsible for security",
+        "coach and mentor more junior colleagues"
+      ],
+      "skills": [
+        {
+          "name": "Availability and capacity management",
+          "description": "Availability and capacity management. You know about availability and capacity management processes. (Relevant skill level: awareness)"
+        },
+        {
+          "name": "Information security",
+          "description": "Information security. You understand information security and the types of security controls that can be used to mitigate security threats within solutions and services. (Relevant skill level: working)"
+        },
+        {
+          "name": "Modern standards approach",
+          "description": "Modern standards approach. You understand the central principles of modern standards approach and how they apply to the work you are undertaking. You will be able to apply them under guidance. (Relevant skill level: working)"
+        },
+        {
+          "name": "Programming and build (software engineering)",
+          "description": "Programming and build (software engineering). You can design, code, test, correct and document simple programs or scripts under the direction of others. (Relevant skill level: working)"
+        },
+        {
+          "name": "Prototyping",
+          "description": "Prototyping. You will know when to use a specific prototyping technique or method (for example, sketch, code, Loc2). You can show the value of prototyping to your team. (Relevant skill level: working)"
+        },
+        {
+          "name": "Service support",
+          "description": "Service support. You can help fix faults following agreed procedures. You can carry out agreed infrastructure maintenance tasks. (Relevant skill level: working)"
+        },
+        {
+          "name": "Systems design",
+          "description": "Systems design. You can assist as part of a team on design of components of larger systems. (Relevant skill level: awareness)"
+        },
+        {
+          "name": "Systems integration",
+          "description": "Systems integration. You can talk about the process of integrating systems and the challenges of designing, building and testing interfaces between systems. (Relevant skill level: awareness)"
+        },
+        {
+          "name": "User focus",
+          "description": "User focus. You know about user experience analysis and its principles. You can explain the purpose of user stories and the focus on user needs. (Relevant skill level: awareness)"
+        }
+      ]
+    },
+    {
+      "title": "Developer",
+      "description": "A developer delivers software components that form part of a product.",
+      "duties": [
+        "develop software to meet user needs",
+        "follow best-practice guidelines and help to improve those guidelines",
+        "write clean, secure and well-tested code",
+        "coach and mentor more junior colleagues",
+        "operate the services they build and identify issues in production"
+      ],
+      "skills": [
+        {
+          "name": "Availability and capacity management",
+          "description": "Availability and capacity management. You can manage the service components to ensure they meet business needs and performance targets. (Relevant skill level: working)"
+        },
+        {
+          "name": "Development process optimisation",
+          "description": "Development process optimisation. You can explain the importance of developing process efficiency and the common ways in which processes are optimised. You can support specific activities to improve development processes. You can spot or identify obvious deficiencies. (Relevant skill level: awareness)"
+        },
+        {
+          "name": "Information security",
+          "description": "Information security. You can discuss information security. You can design solutions and services with security controls embedded, specifically engineered as mitigation against security threats as a core part of the solutions and services. (Relevant skill level: practitioner)"
+        },
+        {
+          "name": "Modern standards approach",
+          "description": "Modern standards approach. You can competently use a modern standards approach and guide others in so doing. (Relevant skill level: practitioner)"
+        },
+        {
+          "name": "Programming and build (software engineering)",
+          "description": "Programming and build (software engineering). You collaborate with others when necessary to review specifications and use these agreed specifications to design, code, test and document programs or scripts of medium to high complexity, using the right standards and tools. (Relevant skill level: practitioner)"
+        },
+        {
+          "name": "Prototyping",
+          "description": "Prototyping. You see prototyping as a team activity, actively soliciting prototypes and testing with others. You establish design patterns and iterate them. You know a variety of methods of prototyping and can choose the most appropriate ones. (Relevant skill level: practitioner)"
+        },
+        {
+          "name": "Service support",
+          "description": "Service support. You can help fix faults following agreed procedures. You can carry out agreed maintenance tasks on infrastructure. (Relevant skill level: working)"
+        },
+        {
+          "name": "Systems design",
+          "description": "Systems design. You can translate logical designs into physical designs. You can produce detailed designs. You know how to document all work using required standards, methods and tools, including prototyping tools where appropriate. You can design systems characterised by managed levels of risk, manageable business and technical complexity, and meaningful impact. You can work with well understood technology and identify appropriate patterns. (Relevant skill level: working)"
+        },
+        {
+          "name": "Systems integration",
+          "description": "Systems integration. You can build and test simple interfaces between systems, or work on more complex integration as part of a wider team. (Relevant skill level: working)"
+        },
+        {
+          "name": "User focus",
+          "description": "User focus. You know how to collaborate with user researchers and can represent users internally. You understand the difference between user needs and the desires of the user. You can champion user research to focus on all users. You can prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used. (Relevant skill level: practitioner)"
+        }
+      ]
+    },
+    {
+      "title": "Senior developer",
+      "description": "A senior developer delivers and integrates software to form a complete service.",
+      "duties": [
+        "plan and lead development on sets of related stories",
+        "have an understanding of the whole system and take responsibility for teaching this to others",
+        "work with other disciplines to understand what needs to be built",
+        "coach and mentor more junior colleagues",
+        "operate the production services you build",
+        "find ways to improve system robustness, resilience and stability"
+      ],
+      "skills": []
+    },
+    {
+      "title": "Lead developer",
+      "description": "A lead developer leads development on one or a small number of related project teams.",
+      "duties": [
+        "guide the ways in which the team works",
+        "be proficient in a wide range of technical systems",
+        "be involved in identifying appropriate technology and approaches, deciding when software should be written",
+        "contribute to the developer community",
+        "provide technical leadership, coach and mentor your team",
+        "promote knowledge sharing and adoption of good practice"
+      ],
+      "skills": []
+    },
+    {
+      "title": "Principal developer",
+      "description": "A principal developer leads and plans development across large or multiple teams.",
+      "duties": [
+        "be an expert in many technical areas, or a specialist with very deep knowledge in a particular technical area",
+        "use this knowledge, and work with related disciplines, to keep multiple teams working effectively",
+        "develop capability by facilitating internal mobility, shape career paths and recruit talent, making sure they collaborate",
+        "identify, test and champion the adoption of emerging technologies"
+      ],
+      "skills": []
+    },
+    {
+      "title": "Read more",
+      "description": ".",
+      "duties": [],
+      "skills": []
+    }
+  ]
+}

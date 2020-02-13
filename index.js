@@ -18,9 +18,12 @@ cheerioReq("https://www.gov.uk/guidance/software-developer", (err, $) => {
       title: $("h1").text().trim(),
       levels: $('.govspeak h2')
         .map( (index, level) => {
+          let description = $(level).next('p').text().split('.');
+
           return {
             title: $(level).text().trim(),
-            description: $(level).next('p').text().split('.')[0] + ".",
+            description: description.slice(0, -1).join('. ') + ".",
+            duties_pretext: (description[description.length - 1]).trim(),
             duties: $(level).next('p').next('ul').find('li').map( (i, duty) => {
               return $(duty).text().trim();
             }).toArray(),
@@ -35,7 +38,7 @@ cheerioReq("https://www.gov.uk/guidance/software-developer", (err, $) => {
         .toArray()
         //.slice(1, -1)
     };
-    //console.log(JSON.stringify(role, null, 2));
+    //console.log(JSON.stringify(role, null, 2)); return;
     //console.log(JSON.stringify(formatForCSV(role), null, 2));
 
     const json2csvParser = new Parser({ fields });
@@ -54,7 +57,7 @@ function formatForCSV(role) {
         role: role.title,
         role_level: level.title,
         role_description_intro: role.levels[0].description,
-        skills_they_need: level.description,
+        skills_they_need: `${level.description}\n\n${level.duties_pretext}\n${level.duties.map(d => `- ${d}`).join('\n')}`,
         skill_name: skill.name,
         skill_description: skill.description
       });

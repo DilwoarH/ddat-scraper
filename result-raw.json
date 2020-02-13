@@ -5,6 +5,7 @@
     {
       "title": "Introduction to the role of software developer",
       "description": "A software developer designs, runs and improves software that meets user needs.",
+      "duties_pretext": "In this role, you will:.",
       "duties": [
         "be responsible for writing clean, secure code following a test-driven approach",
         "create code that is open by default and easy for others to reuse"
@@ -14,6 +15,7 @@
     {
       "title": "Apprentice developer",
       "description": "An apprentice developer attends certified training and develops skills on the job.",
+      "duties_pretext": "In this role, you will:.",
       "duties": [
         "spend a substantial portion of time shadowing others",
         "work with other developers to write code and tests",
@@ -55,6 +57,7 @@
     {
       "title": "Junior developer",
       "description": "A junior developer learns on the job by delivering software components.",
+      "duties_pretext": "At this level, you will:.",
       "duties": [
         "develop skills while working under supervision to deliver stories in a multidisciplinary team",
         "understand and be proficient in different types of testing",
@@ -103,6 +106,7 @@
     {
       "title": "Developer",
       "description": "A developer delivers software components that form part of a product.",
+      "duties_pretext": "In this role, you will:.",
       "duties": [
         "develop software to meet user needs",
         "follow best-practice guidelines and help to improve those guidelines",
@@ -156,6 +160,7 @@
     {
       "title": "Senior developer",
       "description": "A senior developer delivers and integrates software to form a complete service.",
+      "duties_pretext": "At this level, you will:.",
       "duties": [
         "plan and lead development on sets of related stories",
         "have an understanding of the whole system and take responsibility for teaching this to others",
@@ -169,6 +174,7 @@
     {
       "title": "Lead developer",
       "description": "A lead developer leads development on one or a small number of related project teams.",
+      "duties_pretext": "At this level, you will:.",
       "duties": [
         "guide the ways in which the team works",
         "be proficient in a wide range of technical systems",
@@ -182,6 +188,7 @@
     {
       "title": "Principal developer",
       "description": "A principal developer leads and plans development across large or multiple teams.",
+      "duties_pretext": "At this level, you will:.",
       "duties": [
         "be an expert in many technical areas, or a specialist with very deep knowledge in a particular technical area",
         "use this knowledge, and work with related disciplines, to keep multiple teams working effectively",
@@ -193,6 +200,7 @@
     {
       "title": "Read more",
       "description": ".",
+      "duties_pretext": "undefined.",
       "duties": [],
       "skills": []
     }

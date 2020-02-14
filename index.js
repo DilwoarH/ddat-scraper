@@ -8,7 +8,8 @@ const fields = [
   'role_description_intro',
   'skills_they_need',
   'skill_name',
-  'skill_description'
+  'skill_description',
+  'skill_level'
 ];
 const opts = { fields };
 
@@ -59,7 +60,8 @@ function formatForCSV(role) {
         role_description_intro: role.levels[0].description,
         skills_they_need: `${level.description}\n\n${level.duties_pretext}\n${level.duties.map(d => `- ${d}`).join('\n')}`,
         skill_name: skill.name,
-        skill_description: skill.description
+        skill_description: skill.description,
+        skill_level: skill.description.match(/\(Relevant skill level: (.*?)\)/)[1]
       });
     });
   });

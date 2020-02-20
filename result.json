@@ -1,236 +1,449 @@
-[
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Apprentice developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "An apprentice developer attends certified training and develops skills on the job.",
-    "skill_name": "Availability and capacity management",
-    "skill_description": "Availability and capacity management. You can describe availability and capacity management processes. (Relevant skill level: awareness)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Apprentice developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "An apprentice developer attends certified training and develops skills on the job.",
-    "skill_name": "Information security",
-    "skill_description": "Information security. You are aware of information security and the security controls that can be used to mitigate security threats within solutions and services. (Relevant skill level: awareness)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Apprentice developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "An apprentice developer attends certified training and develops skills on the job.",
-    "skill_name": "Modern standards approach",
-    "skill_description": "Modern standards approach. You can explain the importance of adopting a modern standards approach. (Relevant skill level: awareness)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Apprentice developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "An apprentice developer attends certified training and develops skills on the job.",
-    "skill_name": "Programming and build (software engineering)",
-    "skill_description": "Programming and build (software engineering). You can design, code, test, correct and document simple programs or scripts under the direction of others. (Relevant skill level: working)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Apprentice developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "An apprentice developer attends certified training and develops skills on the job.",
-    "skill_name": "Prototyping",
-    "skill_description": "Prototyping. You can explain what prototyping is and why and when to use it. You have an understanding of how to work in an open and collaborative environment- for example, by pair-working. (Relevant skill level: awareness)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Apprentice developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "An apprentice developer attends certified training and develops skills on the job.",
-    "skill_name": "Service support",
-    "skill_description": "Service support. You can assist in the investigation and resolution of infrastructure problems, undertaking specific activities under the direction of others. (Relevant skill level: awareness)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Apprentice developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "An apprentice developer attends certified training and develops skills on the job.",
-    "skill_name": "User focus",
-    "skill_description": "User focus. You know about user experience analysis and its principles. You can explain the purpose of user stories and focus on user needs. (Relevant skill level: awareness)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Junior developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A junior developer learns on the job by delivering software components.",
-    "skill_name": "Availability and capacity management",
-    "skill_description": "Availability and capacity management. You know about availability and capacity management processes. (Relevant skill level: awareness)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Junior developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A junior developer learns on the job by delivering software components.",
-    "skill_name": "Information security",
-    "skill_description": "Information security. You understand information security and the types of security controls that can be used to mitigate security threats within solutions and services. (Relevant skill level: working)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Junior developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A junior developer learns on the job by delivering software components.",
-    "skill_name": "Modern standards approach",
-    "skill_description": "Modern standards approach. You understand the central principles of modern standards approach and how they apply to the work you are undertaking. You will be able to apply them under guidance. (Relevant skill level: working)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Junior developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A junior developer learns on the job by delivering software components.",
-    "skill_name": "Programming and build (software engineering)",
-    "skill_description": "Programming and build (software engineering). You can design, code, test, correct and document simple programs or scripts under the direction of others. (Relevant skill level: working)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Junior developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A junior developer learns on the job by delivering software components.",
-    "skill_name": "Prototyping",
-    "skill_description": "Prototyping. You will know when to use a specific prototyping technique or method (for example, sketch, code, Loc2). You can show the value of prototyping to your team. (Relevant skill level: working)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Junior developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A junior developer learns on the job by delivering software components.",
-    "skill_name": "Service support",
-    "skill_description": "Service support. You can help fix faults following agreed procedures. You can carry out agreed infrastructure maintenance tasks. (Relevant skill level: working)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Junior developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A junior developer learns on the job by delivering software components.",
-    "skill_name": "Systems design",
-    "skill_description": "Systems design. You can assist as part of a team on design of components of larger systems. (Relevant skill level: awareness)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Junior developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A junior developer learns on the job by delivering software components.",
-    "skill_name": "Systems integration",
-    "skill_description": "Systems integration. You can talk about the process of integrating systems and the challenges of designing, building and testing interfaces between systems. (Relevant skill level: awareness)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Junior developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A junior developer learns on the job by delivering software components.",
-    "skill_name": "User focus",
-    "skill_description": "User focus. You know about user experience analysis and its principles. You can explain the purpose of user stories and the focus on user needs. (Relevant skill level: awareness)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A developer delivers software components that form part of a product.",
-    "skill_name": "Availability and capacity management",
-    "skill_description": "Availability and capacity management. You can manage the service components to ensure they meet business needs and performance targets. (Relevant skill level: working)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A developer delivers software components that form part of a product.",
-    "skill_name": "Development process optimisation",
-    "skill_description": "Development process optimisation. You can explain the importance of developing process efficiency and the common ways in which processes are optimised. You can support specific activities to improve development processes. You can spot or identify obvious deficiencies. (Relevant skill level: awareness)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A developer delivers software components that form part of a product.",
-    "skill_name": "Information security",
-    "skill_description": "Information security. You can discuss information security. You can design solutions and services with security controls embedded, specifically engineered as mitigation against security threats as a core part of the solutions and services. (Relevant skill level: practitioner)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A developer delivers software components that form part of a product.",
-    "skill_name": "Modern standards approach",
-    "skill_description": "Modern standards approach. You can competently use a modern standards approach and guide others in so doing. (Relevant skill level: practitioner)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A developer delivers software components that form part of a product.",
-    "skill_name": "Programming and build (software engineering)",
-    "skill_description": "Programming and build (software engineering). You collaborate with others when necessary to review specifications and use these agreed specifications to design, code, test and document programs or scripts of medium to high complexity, using the right standards and tools. (Relevant skill level: practitioner)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A developer delivers software components that form part of a product.",
-    "skill_name": "Prototyping",
-    "skill_description": "Prototyping. You see prototyping as a team activity, actively soliciting prototypes and testing with others. You establish design patterns and iterate them. You know a variety of methods of prototyping and can choose the most appropriate ones. (Relevant skill level: practitioner)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A developer delivers software components that form part of a product.",
-    "skill_name": "Service support",
-    "skill_description": "Service support. You can help fix faults following agreed procedures. You can carry out agreed maintenance tasks on infrastructure. (Relevant skill level: working)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A developer delivers software components that form part of a product.",
-    "skill_name": "Systems design",
-    "skill_description": "Systems design. You can translate logical designs into physical designs. You can produce detailed designs. You know how to document all work using required standards, methods and tools, including prototyping tools where appropriate. You can design systems characterised by managed levels of risk, manageable business and technical complexity, and meaningful impact. You can work with well understood technology and identify appropriate patterns. (Relevant skill level: working)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A developer delivers software components that form part of a product.",
-    "skill_name": "Systems integration",
-    "skill_description": "Systems integration. You can build and test simple interfaces between systems, or work on more complex integration as part of a wider team. (Relevant skill level: working)"
-  },
-  {
-    "job_family": "Technical job",
-    "role": "Software developer",
-    "role_level": "Developer",
-    "role_description_intro": "A software developer designs, runs and improves software that meets user needs.",
-    "skills_they_need": "A developer delivers software components that form part of a product.",
-    "skill_name": "User focus",
-    "skill_description": "User focus. You know how to collaborate with user researchers and can represent users internally. You understand the difference between user needs and the desires of the user. You can champion user research to focus on all users. You can prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used. (Relevant skill level: practitioner)"
-  }
-]
+{
+  "family": "Technical job",
+  "title": "Software developer",
+  "levels": [
+    {
+      "title": "Introduction to the role of software developer",
+      "description": "A software developer designs, runs and improves software that meets user needs.",
+      "duties_pretext": "In this role, you will:",
+      "duties": [
+        "be responsible for writing clean, secure code following a test-driven approach",
+        "create code that is open by default and easy for others to reuse"
+      ],
+      "skills": []
+    },
+    {
+      "title": "Apprentice developer",
+      "description": "An apprentice developer attends certified training and develops skills on the job.",
+      "duties_pretext": "In this role, you will:",
+      "duties": [
+        "spend a substantial portion of time shadowing others",
+        "work with other developers to write code and tests",
+        "build your own knowledge",
+        "follow a test-driven approach",
+        "write code that is automatically tested"
+      ],
+      "skills": [
+        {
+          "name": "Availability and capacity management",
+          "description": "TBC",
+          "skill_level": "awareness",
+          "skill_level_description": "You can describe availability and capacity management processes."
+        },
+        {
+          "name": "Information security",
+          "description": "TBC",
+          "skill_level": "awareness",
+          "skill_level_description": "You are aware of information security and the security controls that can be used to mitigate security threats within solutions and services."
+        },
+        {
+          "name": "Modern standards approach",
+          "description": "TBC",
+          "skill_level": "awareness",
+          "skill_level_description": "You can explain the importance of adopting a modern standards approach."
+        },
+        {
+          "name": "Programming and build (software engineering)",
+          "description": "TBC",
+          "skill_level": "working",
+          "skill_level_description": "You can design, code, test, correct and document simple programs or scripts under the direction of others."
+        },
+        {
+          "name": "Prototyping",
+          "description": "TBC",
+          "skill_level": "awareness",
+          "skill_level_description": "You can explain what prototyping is and why and when to use it. You have an understanding of how to work in an open and collaborative environment- for example, by pair-working."
+        },
+        {
+          "name": "Service support",
+          "description": "TBC",
+          "skill_level": "awareness",
+          "skill_level_description": "You can assist in the investigation and resolution of infrastructure problems, undertaking specific activities under the direction of others."
+        },
+        {
+          "name": "User focus",
+          "description": "TBC",
+          "skill_level": "awareness",
+          "skill_level_description": "You know about user experience analysis and its principles. You can explain the purpose of user stories and focus on user needs."
+        }
+      ]
+    },
+    {
+      "title": "Junior developer",
+      "description": "A junior developer learns on the job by delivering software components.",
+      "duties_pretext": "At this level, you will:",
+      "duties": [
+        "develop skills while working under supervision to deliver stories in a multidisciplinary team",
+        "understand and be proficient in different types of testing",
+        "be aware of but not responsible for security",
+        "coach and mentor more junior colleagues"
+      ],
+      "skills": [
+        {
+          "name": "Availability and capacity management",
+          "description": "TBC",
+          "skill_level": "awareness",
+          "skill_level_description": "You know about availability and capacity management processes."
+        },
+        {
+          "name": "Information security",
+          "description": "TBC",
+          "skill_level": "working",
+          "skill_level_description": "You understand information security and the types of security controls that can be used to mitigate security threats within solutions and services."
+        },
+        {
+          "name": "Modern standards approach",
+          "description": "TBC",
+          "skill_level": "working",
+          "skill_level_description": "You understand the central principles of modern standards approach and how they apply to the work you are undertaking. You will be able to apply them under guidance."
+        },
+        {
+          "name": "Programming and build (software engineering)",
+          "description": "TBC",
+          "skill_level": "working",
+          "skill_level_description": "You can design, code, test, correct and document simple programs or scripts under the direction of others."
+        },
+        {
+          "name": "Prototyping",
+          "description": "TBC",
+          "skill_level": "working",
+          "skill_level_description": "You will know when to use a specific prototyping technique or method (for example, sketch, code, Loc2). You can show the value of prototyping to your team."
+        },
+        {
+          "name": "Service support",
+          "description": "TBC",
+          "skill_level": "working",
+          "skill_level_description": "You can help fix faults following agreed procedures. You can carry out agreed infrastructure maintenance tasks."
+        },
+        {
+          "name": "Systems design",
+          "description": "TBC",
+          "skill_level": "awareness",
+          "skill_level_description": "You can assist as part of a team on design of components of larger systems."
+        },
+        {
+          "name": "Systems integration",
+          "description": "TBC",
+          "skill_level": "awareness",
+          "skill_level_description": "You can talk about the process of integrating systems and the challenges of designing, building and testing interfaces between systems."
+        },
+        {
+          "name": "User focus",
+          "description": "TBC",
+          "skill_level": "awareness",
+          "skill_level_description": "You know about user experience analysis and its principles. You can explain the purpose of user stories and the focus on user needs."
+        }
+      ]
+    },
+    {
+      "title": "Developer",
+      "description": "A developer delivers software components that form part of a product.",
+      "duties_pretext": "In this role, you will:",
+      "duties": [
+        "develop software to meet user needs",
+        "follow best-practice guidelines and help to improve those guidelines",
+        "write clean, secure and well-tested code",
+        "coach and mentor more junior colleagues",
+        "operate the services they build and identify issues in production"
+      ],
+      "skills": [
+        {
+          "name": "Availability and capacity management",
+          "description": "TBC",
+          "skill_level": "working",
+          "skill_level_description": "You can manage the service components to ensure they meet business needs and performance targets."
+        },
+        {
+          "name": "Development process optimisation",
+          "description": "TBC",
+          "skill_level": "awareness",
+          "skill_level_description": "You can explain the importance of developing process efficiency and the common ways in which processes are optimised. You can support specific activities to improve development processes. You can spot or identify obvious deficiencies."
+        },
+        {
+          "name": "Information security",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You can discuss information security. You can design solutions and services with security controls embedded, specifically engineered as mitigation against security threats as a core part of the solutions and services."
+        },
+        {
+          "name": "Modern standards approach",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You can competently use a modern standards approach and guide others in so doing."
+        },
+        {
+          "name": "Programming and build (software engineering)",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You collaborate with others when necessary to review specifications and use these agreed specifications to design, code, test and document programs or scripts of medium to high complexity, using the right standards and tools."
+        },
+        {
+          "name": "Prototyping",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You see prototyping as a team activity, actively soliciting prototypes and testing with others. You establish design patterns and iterate them. You know a variety of methods of prototyping and can choose the most appropriate ones."
+        },
+        {
+          "name": "Service support",
+          "description": "TBC",
+          "skill_level": "working",
+          "skill_level_description": "You can help fix faults following agreed procedures. You can carry out agreed maintenance tasks on infrastructure."
+        },
+        {
+          "name": "Systems design",
+          "description": "TBC",
+          "skill_level": "working",
+          "skill_level_description": "You can translate logical designs into physical designs. You can produce detailed designs. You know how to document all work using required standards, methods and tools, including prototyping tools where appropriate. You can design systems characterised by managed levels of risk, manageable business and technical complexity, and meaningful impact. You can work with well understood technology and identify appropriate patterns."
+        },
+        {
+          "name": "Systems integration",
+          "description": "TBC",
+          "skill_level": "working",
+          "skill_level_description": "You can build and test simple interfaces between systems, or work on more complex integration as part of a wider team."
+        },
+        {
+          "name": "User focus",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You know how to collaborate with user researchers and can represent users internally. You understand the difference between user needs and the desires of the user. You can champion user research to focus on all users. You can prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used."
+        }
+      ]
+    },
+    {
+      "title": "Senior developer",
+      "description": "A senior developer delivers and integrates software to form a complete service.",
+      "duties_pretext": "At this level, you will:",
+      "duties": [
+        "plan and lead development on sets of related stories",
+        "have an understanding of the whole system and take responsibility for teaching this to others",
+        "work with other disciplines to understand what needs to be built",
+        "coach and mentor more junior colleagues",
+        "operate the production services you build",
+        "find ways to improve system robustness, resilience and stability"
+      ],
+      "skills": [
+        {
+          "name": "Availability and capacity management",
+          "description": "TBC",
+          "skill_level": "working",
+          "skill_level_description": "You can manage the service components to ensure they meet business needs and performance targets."
+        },
+        {
+          "name": "Development process optimisation",
+          "description": "TBC",
+          "skill_level": "working",
+          "skill_level_description": "You can identify process optimisation opportunities with guidance and contribute to the implementation of proposed solutions."
+        },
+        {
+          "name": "Information security",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You understand information security, and can design solutions and services with security controls embedded, specifically engineered as mitigation against security threats as a core part of the solutions and services."
+        },
+        {
+          "name": "Modern standards approach",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You can use a modern standards approach competently and guide others in so doing."
+        },
+        {
+          "name": "Programming and build (software engineering)",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You can collaborate with others when necessary to review specifications. You can use these agreed specifications to design, code, test and document programs or scripts of medium to high complexity, using the right standards and tools."
+        },
+        {
+          "name": "Prototyping",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You see prototyping as a team activity, actively soliciting prototypes and testing with others. You establish design patterns and iterate them. You know a variety of methods of prototyping and can choose the most appropriate ones."
+        },
+        {
+          "name": "Service support",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You can identify, locate and fix faults."
+        },
+        {
+          "name": "Systems design",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You can design systems characterised by medium levels of risk, impact, and business or technical complexity. You can select appropriate design standards, methods and tools, and ensure they are applied effectively. You know how to review the systems designs of others to ensure the selection of appropriate technology, efficient use of resources and integration of multiple systems and technology."
+        },
+        {
+          "name": "Systems integration",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You can define the integration build. You can coordinate build activities across systems and can undertake and support integration testing activities."
+        },
+        {
+          "name": "User focus",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You can collaborate with user researchers and sell or represent users internally. You can explain the difference between user needs and the desires of the user. You can champion user research to focus on all users. You know how to prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used."
+        }
+      ]
+    },
+    {
+      "title": "Lead developer",
+      "description": "A lead developer leads development on one or a small number of related project teams.",
+      "duties_pretext": "At this level, you will:",
+      "duties": [
+        "guide the ways in which the team works",
+        "be proficient in a wide range of technical systems",
+        "be involved in identifying appropriate technology and approaches, deciding when software should be written",
+        "contribute to the developer community",
+        "provide technical leadership, coach and mentor your team",
+        "promote knowledge sharing and adoption of good practice"
+      ],
+      "skills": [
+        {
+          "name": "Availability and capacity management",
+          "description": "TBC",
+          "skill_level": "working",
+          "skill_level_description": "Manage the service components to ensure they meet business needs and performance targets."
+        },
+        {
+          "name": "Development process optimisation",
+          "description": "TBC",
+          "skill_level": "working",
+          "skill_level_description": "You can identify process optimisation opportunities with guidance and contribute to the implementation of proposed solutions."
+        },
+        {
+          "name": "Information security",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You have an appreciation of information security, designing solutions and services with security controls embedded, specifically engineered as mitigation against security threats as a core part of the solutions and services."
+        },
+        {
+          "name": "Modern standards approach",
+          "description": "TBC",
+          "skill_level": "expert",
+          "skill_level_description": "You demonstrate strong understanding and application of the most appropriate modern standards and practices. You will take responsibility for coaching and guiding others."
+        },
+        {
+          "name": "Programming and build (software engineering)",
+          "description": "TBC",
+          "skill_level": "expert",
+          "skill_level_description": "You can advise on the right way to apply standards and methods, ensuring compliance. You can maintain technical responsibility for all the stages and iterations of a software development project. You can provide technical advice to stakeholders and set the team-based standards for programming tools and techniques."
+        },
+        {
+          "name": "Prototyping",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You see prototyping as a team activity, actively soliciting prototypes and testing with others. You establish design patterns and iterate them. You know a variety of methods of prototyping and can choose the most appropriate ones."
+        },
+        {
+          "name": "Service support",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You can identify, locate and fix faults."
+        },
+        {
+          "name": "Systems design",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You can design systems characterised by medium levels of risk, impact, and business or technical complexity. You can select appropriate design standards, methods and tools and ensure they are applied effectively. You can review the systems designs of others to ensure selection of appropriate technology, efficient use of resources and integration of multiple systems and technology."
+        },
+        {
+          "name": "Systems integration",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You can define the integration build. You can coordinate build activities across systems and understand how to undertake and support integration-testing activities."
+        },
+        {
+          "name": "User focus",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You can collaborate with user researchers and represent users internally. You can explain the difference between user needs and the desires of the user. You champion user research to focus on all users. You know how to prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used."
+        }
+      ]
+    },
+    {
+      "title": "Principal developer",
+      "description": "A principal developer leads and plans development across large or multiple teams.",
+      "duties_pretext": "At this level, you will:",
+      "duties": [
+        "be an expert in many technical areas, or a specialist with very deep knowledge in a particular technical area",
+        "use this knowledge, and work with related disciplines, to keep multiple teams working effectively",
+        "develop capability by facilitating internal mobility, shape career paths and recruit talent, making sure they collaborate",
+        "identify, test and champion the adoption of emerging technologies"
+      ],
+      "skills": [
+        {
+          "name": "Availability and capacity management",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You ensure the correct implementation of standards and procedures, identifying capacity issues, stipulating the required changes and instigating these. You know how to initiate remedial action."
+        },
+        {
+          "name": "Availability and capacity management",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You ensure the correct implementation of standards and procedures, identifying capacity issues, stipulating the required changes and instigating these. You know how to initiate remedial action."
+        },
+        {
+          "name": "Development process optimisation (management)",
+          "description": "TBC",
+          "skill_level": "expert",
+          "skill_level_description": "You can set strategy and manage resource allocation for solution development programmes. You liaise with client functions to establish business requirements; you can identify, propose, initiate and lead these programmes."
+        },
+        {
+          "name": "Information security",
+          "description": "TBC",
+          "skill_level": "expert",
+          "skill_level_description": "You have a depth of knowledge in information security. You can design, quality review and quality assure solutions and services with security controls embedded, specifically engineered as mitigation against security threats as a core part of the solutions and services."
+        },
+        {
+          "name": "Modern standards approach",
+          "description": "TBC",
+          "skill_level": "expert",
+          "skill_level_description": "You demonstrate strong understanding and application of the most appropriate modern standards and practices. You will take responsibility for coaching and guiding others."
+        },
+        {
+          "name": "Programming and build (software engineering – management)",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You collaborate with others when necessary to review specifications and use these agreed specifications to design, code, test and document programs or scripts of medium-to-high complexity, using the right standards and tools."
+        },
+        {
+          "name": "Prototyping",
+          "description": "TBC",
+          "skill_level": "expert",
+          "skill_level_description": "You have experience of using a variety of methods of prototyping. You know how to share best practice and can coach others. You look at strategic service design end to end."
+        },
+        {
+          "name": "Service support",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You can identify, locate and fix faults."
+        },
+        {
+          "name": "Systems design",
+          "description": "TBC",
+          "skill_level": "expert",
+          "skill_level_description": "You can design systems characterised by high levels of risk, impact, and business or technical complexity. You control system design practice within an enterprise or industry architecture. You influence industry-based models for the development of new technology applications. You develop effective implementation and procurement strategies, consistent with business needs. You ensure adherence to relevant technical strategies, policies, standards and practices."
+        },
+        {
+          "name": "Systems integration (management)",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You can define the integration build. You can coordinate build activities across systems and understand how to undertake and support integration testing activities."
+        },
+        {
+          "name": "User focus",
+          "description": "TBC",
+          "skill_level": "practitioner",
+          "skill_level_description": "You can collaborate with user researchers and sell or represent users internally. You can explain the difference between user needs and the desires of the user. You champion user research to focus on all users. You know how to prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used."
+        }
+      ]
+    },
+    {
+      "title": "Read more",
+      "description": ".",
+      "duties_pretext": "",
+      "duties": [],
+      "skills": []
+    }
+  ]
+}

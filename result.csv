@@ -6,7 +6,7 @@ In this role, you will:
 - work with other developers to write code and tests
 - build your own knowledge
 - follow a test-driven approach
-- write code that is automatically tested","Availability and capacity management","TBC","awareness","You can describe availability and capacity management processes."
+- write code that is automatically tested","Availability and capacity management","You can define, analyse, plan, forecast, measure, maintain and improve all aspects of the availability of services, including power. You control and manage service availability to meet the needs of the business in a cost-effective manner. This includes managing the capability, functionality and sustainability of service components (for example, hardware, software, network resources and software/infrastructure as a service).","awareness","You can describe availability and capacity management processes."
 "Technical job","Software developer","Apprentice developer","A software developer designs, runs and improves software that meets user needs.","An apprentice developer attends certified training and develops skills on the job.
 
 In this role, you will:
@@ -14,7 +14,7 @@ In this role, you will:
 - work with other developers to write code and tests
 - build your own knowledge
 - follow a test-driven approach
-- write code that is automatically tested","Information security","TBC","awareness","You are aware of information security and the security controls that can be used to mitigate security threats within solutions and services."
+- write code that is automatically tested","Information security","You maintain the security, confidentiality and integrity of information systems through compliance with relevant legislation and regulations. You design, implement and operate controls and management strategies to allow this.","awareness","You are aware of information security and the security controls that can be used to mitigate security threats within solutions and services."
 "Technical job","Software developer","Apprentice developer","A software developer designs, runs and improves software that meets user needs.","An apprentice developer attends certified training and develops skills on the job.
 
 In this role, you will:
@@ -22,7 +22,7 @@ In this role, you will:
 - work with other developers to write code and tests
 - build your own knowledge
 - follow a test-driven approach
-- write code that is automatically tested","Modern standards approach","TBC","awareness","You can explain the importance of adopting a modern standards approach."
+- write code that is automatically tested","Modern standards approach","You use a modern standards approach throughout automation and testing.","awareness","You can explain the importance of adopting a modern standards approach."
 "Technical job","Software developer","Apprentice developer","A software developer designs, runs and improves software that meets user needs.","An apprentice developer attends certified training and develops skills on the job.
 
 In this role, you will:
@@ -30,7 +30,7 @@ In this role, you will:
 - work with other developers to write code and tests
 - build your own knowledge
 - follow a test-driven approach
-- write code that is automatically tested","Programming and build (software engineering)","TBC","working","You can design, code, test, correct and document simple programs or scripts under the direction of others."
+- write code that is automatically tested","Programming and build (software engineering)","You can use agreed security standards and specifications to design, create, test and document new or amended software.","working","You can design, code, test, correct and document simple programs or scripts under the direction of others."
 "Technical job","Software developer","Apprentice developer","A software developer designs, runs and improves software that meets user needs.","An apprentice developer attends certified training and develops skills on the job.
 
 In this role, you will:
@@ -38,7 +38,7 @@ In this role, you will:
 - work with other developers to write code and tests
 - build your own knowledge
 - follow a test-driven approach
-- write code that is automatically tested","Prototyping","TBC","awareness","You can explain what prototyping is and why and when to use it. You have an understanding of how to work in an open and collaborative environment- for example, by pair-working."
+- write code that is automatically tested","Prototyping","You can apply technical knowledge and experience to create or design workable prototypes, both programs and physical outputs. You understand parameters, restrictions and synergies.","awareness","You can explain what prototyping is and why and when to use it. You have an understanding of how to work in an open and collaborative environment- for example, by pair-working."
 "Technical job","Software developer","Apprentice developer","A software developer designs, runs and improves software that meets user needs.","An apprentice developer attends certified training and develops skills on the job.
 
 In this role, you will:
@@ -46,7 +46,7 @@ In this role, you will:
 - work with other developers to write code and tests
 - build your own knowledge
 - follow a test-driven approach
-- write code that is automatically tested","Service support","TBC","awareness","You can assist in the investigation and resolution of infrastructure problems, undertaking specific activities under the direction of others."
+- write code that is automatically tested","Service support","You can maintain and support services.","awareness","You can assist in the investigation and resolution of infrastructure problems, undertaking specific activities under the direction of others."
 "Technical job","Software developer","Apprentice developer","A software developer designs, runs and improves software that meets user needs.","An apprentice developer attends certified training and develops skills on the job.
 
 In this role, you will:
@@ -54,70 +54,70 @@ In this role, you will:
 - work with other developers to write code and tests
 - build your own knowledge
 - follow a test-driven approach
-- write code that is automatically tested","User focus","TBC","awareness","You know about user experience analysis and its principles. You can explain the purpose of user stories and focus on user needs."
+- write code that is automatically tested","User focus","You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet these needs and engage in meaningful interactions and relationships with users. You put users first. You can manage competing priorities.","awareness","You know about user experience analysis and its principles. You can explain the purpose of user stories and focus on user needs."
 "Technical job","Software developer","Junior developer","A software developer designs, runs and improves software that meets user needs.","A junior developer learns on the job by delivering software components.
 
 At this level, you will:
 - develop skills while working under supervision to deliver stories in a multidisciplinary team
 - understand and be proficient in different types of testing
 - be aware of but not responsible for security
-- coach and mentor more junior colleagues","Availability and capacity management","TBC","awareness","You know about availability and capacity management processes."
+- coach and mentor more junior colleagues","Availability and capacity management","You can define, analyse, plan, forecast, measure, maintain and improve all aspects of the availability of services, including power. You control and manage service availability to meet the needs of the business in a cost-effective manner. This includes managing the capability, functionality and sustainability of service components (for example, hardware, software, network resources and software/infrastructure as a service).","awareness","You know about availability and capacity management processes."
 "Technical job","Software developer","Junior developer","A software developer designs, runs and improves software that meets user needs.","A junior developer learns on the job by delivering software components.
 
 At this level, you will:
 - develop skills while working under supervision to deliver stories in a multidisciplinary team
 - understand and be proficient in different types of testing
 - be aware of but not responsible for security
-- coach and mentor more junior colleagues","Information security","TBC","working","You understand information security and the types of security controls that can be used to mitigate security threats within solutions and services."
+- coach and mentor more junior colleagues","Information security","You maintain the security, confidentiality and integrity of information systems through compliance with relevant legislation and regulations. You design, implement and operate controls and management strategies to allow this.","working","You understand information security and the types of security controls that can be used to mitigate security threats within solutions and services."
 "Technical job","Software developer","Junior developer","A software developer designs, runs and improves software that meets user needs.","A junior developer learns on the job by delivering software components.
 
 At this level, you will:
 - develop skills while working under supervision to deliver stories in a multidisciplinary team
 - understand and be proficient in different types of testing
 - be aware of but not responsible for security
-- coach and mentor more junior colleagues","Modern standards approach","TBC","working","You understand the central principles of modern standards approach and how they apply to the work you are undertaking. You will be able to apply them under guidance."
+- coach and mentor more junior colleagues","Modern standards approach","You use a modern standards approach throughout automation and testing.","working","You understand the central principles of modern standards approach and how they apply to the work you are undertaking. You will be able to apply them under guidance."
 "Technical job","Software developer","Junior developer","A software developer designs, runs and improves software that meets user needs.","A junior developer learns on the job by delivering software components.
 
 At this level, you will:
 - develop skills while working under supervision to deliver stories in a multidisciplinary team
 - understand and be proficient in different types of testing
 - be aware of but not responsible for security
-- coach and mentor more junior colleagues","Programming and build (software engineering)","TBC","working","You can design, code, test, correct and document simple programs or scripts under the direction of others."
+- coach and mentor more junior colleagues","Programming and build (software engineering)","You can use agreed security standards and specifications to design, create, test and document new or amended software.","working","You can design, code, test, correct and document simple programs or scripts under the direction of others."
 "Technical job","Software developer","Junior developer","A software developer designs, runs and improves software that meets user needs.","A junior developer learns on the job by delivering software components.
 
 At this level, you will:
 - develop skills while working under supervision to deliver stories in a multidisciplinary team
 - understand and be proficient in different types of testing
 - be aware of but not responsible for security
-- coach and mentor more junior colleagues","Prototyping","TBC","working","You will know when to use a specific prototyping technique or method (for example, sketch, code, Loc2). You can show the value of prototyping to your team."
+- coach and mentor more junior colleagues","Prototyping","You can apply technical knowledge and experience to create or design workable prototypes, both programs and physical outputs. You understand parameters, restrictions and synergies.","working","You will know when to use a specific prototyping technique or method (for example, sketch, code, Loc2). You can show the value of prototyping to your team."
 "Technical job","Software developer","Junior developer","A software developer designs, runs and improves software that meets user needs.","A junior developer learns on the job by delivering software components.
 
 At this level, you will:
 - develop skills while working under supervision to deliver stories in a multidisciplinary team
 - understand and be proficient in different types of testing
 - be aware of but not responsible for security
-- coach and mentor more junior colleagues","Service support","TBC","working","You can help fix faults following agreed procedures. You can carry out agreed infrastructure maintenance tasks."
+- coach and mentor more junior colleagues","Service support","You can maintain and support services.","working","You can help fix faults following agreed procedures. You can carry out agreed infrastructure maintenance tasks."
 "Technical job","Software developer","Junior developer","A software developer designs, runs and improves software that meets user needs.","A junior developer learns on the job by delivering software components.
 
 At this level, you will:
 - develop skills while working under supervision to deliver stories in a multidisciplinary team
 - understand and be proficient in different types of testing
 - be aware of but not responsible for security
-- coach and mentor more junior colleagues","Systems design","TBC","awareness","You can assist as part of a team on design of components of larger systems."
+- coach and mentor more junior colleagues","Systems design",,"awareness","You can assist as part of a team on design of components of larger systems."
 "Technical job","Software developer","Junior developer","A software developer designs, runs and improves software that meets user needs.","A junior developer learns on the job by delivering software components.
 
 At this level, you will:
 - develop skills while working under supervision to deliver stories in a multidisciplinary team
 - understand and be proficient in different types of testing
 - be aware of but not responsible for security
-- coach and mentor more junior colleagues","Systems integration","TBC","awareness","You can talk about the process of integrating systems and the challenges of designing, building and testing interfaces between systems."
+- coach and mentor more junior colleagues","Systems integration",,"awareness","You can talk about the process of integrating systems and the challenges of designing, building and testing interfaces between systems."
 "Technical job","Software developer","Junior developer","A software developer designs, runs and improves software that meets user needs.","A junior developer learns on the job by delivering software components.
 
 At this level, you will:
 - develop skills while working under supervision to deliver stories in a multidisciplinary team
 - understand and be proficient in different types of testing
 - be aware of but not responsible for security
-- coach and mentor more junior colleagues","User focus","TBC","awareness","You know about user experience analysis and its principles. You can explain the purpose of user stories and the focus on user needs."
+- coach and mentor more junior colleagues","User focus","You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet these needs and engage in meaningful interactions and relationships with users. You put users first. You can manage competing priorities.","awareness","You know about user experience analysis and its principles. You can explain the purpose of user stories and the focus on user needs."
 "Technical job","Software developer","Developer","A software developer designs, runs and improves software that meets user needs.","A developer delivers software components that form part of a product.
 
 In this role, you will:
@@ -125,7 +125,7 @@ In this role, you will:
 - follow best-practice guidelines and help to improve those guidelines
 - write clean, secure and well-tested code
 - coach and mentor more junior colleagues
-- operate the services they build and identify issues in production","Availability and capacity management","TBC","working","You can manage the service components to ensure they meet business needs and performance targets."
+- operate the services they build and identify issues in production","Availability and capacity management","You can define, analyse, plan, forecast, measure, maintain and improve all aspects of the availability of services, including power. You control and manage service availability to meet the needs of the business in a cost-effective manner. This includes managing the capability, functionality and sustainability of service components (for example, hardware, software, network resources and software/infrastructure as a service).","working","You can manage the service components to ensure they meet business needs and performance targets."
 "Technical job","Software developer","Developer","A software developer designs, runs and improves software that meets user needs.","A developer delivers software components that form part of a product.
 
 In this role, you will:
@@ -133,7 +133,7 @@ In this role, you will:
 - follow best-practice guidelines and help to improve those guidelines
 - write clean, secure and well-tested code
 - coach and mentor more junior colleagues
-- operate the services they build and identify issues in production","Development process optimisation","TBC","awareness","You can explain the importance of developing process efficiency and the common ways in which processes are optimised. You can support specific activities to improve development processes. You can spot or identify obvious deficiencies."
+- operate the services they build and identify issues in production","Development process optimisation",,"awareness","You can explain the importance of developing process efficiency and the common ways in which processes are optimised. You can support specific activities to improve development processes. You can spot or identify obvious deficiencies."
 "Technical job","Software developer","Developer","A software developer designs, runs and improves software that meets user needs.","A developer delivers software components that form part of a product.
 
 In this role, you will:
@@ -141,7 +141,7 @@ In this role, you will:
 - follow best-practice guidelines and help to improve those guidelines
 - write clean, secure and well-tested code
 - coach and mentor more junior colleagues
-- operate the services they build and identify issues in production","Information security","TBC","practitioner","You can discuss information security. You can design solutions and services with security controls embedded, specifically engineered as mitigation against security threats as a core part of the solutions and services."
+- operate the services they build and identify issues in production","Information security","You maintain the security, confidentiality and integrity of information systems through compliance with relevant legislation and regulations. You design, implement and operate controls and management strategies to allow this.","practitioner","You can discuss information security. You can design solutions and services with security controls embedded, specifically engineered as mitigation against security threats as a core part of the solutions and services."
 "Technical job","Software developer","Developer","A software developer designs, runs and improves software that meets user needs.","A developer delivers software components that form part of a product.
 
 In this role, you will:
@@ -149,7 +149,7 @@ In this role, you will:
 - follow best-practice guidelines and help to improve those guidelines
 - write clean, secure and well-tested code
 - coach and mentor more junior colleagues
-- operate the services they build and identify issues in production","Modern standards approach","TBC","practitioner","You can competently use a modern standards approach and guide others in so doing."
+- operate the services they build and identify issues in production","Modern standards approach","You use a modern standards approach throughout automation and testing.","practitioner","You can competently use a modern standards approach and guide others in so doing."
 "Technical job","Software developer","Developer","A software developer designs, runs and improves software that meets user needs.","A developer delivers software components that form part of a product.
 
 In this role, you will:
@@ -157,7 +157,7 @@ In this role, you will:
 - follow best-practice guidelines and help to improve those guidelines
 - write clean, secure and well-tested code
 - coach and mentor more junior colleagues
-- operate the services they build and identify issues in production","Programming and build (software engineering)","TBC","practitioner","You collaborate with others when necessary to review specifications and use these agreed specifications to design, code, test and document programs or scripts of medium to high complexity, using the right standards and tools."
+- operate the services they build and identify issues in production","Programming and build (software engineering)","You can use agreed security standards and specifications to design, create, test and document new or amended software.","practitioner","You collaborate with others when necessary to review specifications and use these agreed specifications to design, code, test and document programs or scripts of medium to high complexity, using the right standards and tools."
 "Technical job","Software developer","Developer","A software developer designs, runs and improves software that meets user needs.","A developer delivers software components that form part of a product.
 
 In this role, you will:
@@ -165,7 +165,7 @@ In this role, you will:
 - follow best-practice guidelines and help to improve those guidelines
 - write clean, secure and well-tested code
 - coach and mentor more junior colleagues
-- operate the services they build and identify issues in production","Prototyping","TBC","practitioner","You see prototyping as a team activity, actively soliciting prototypes and testing with others. You establish design patterns and iterate them. You know a variety of methods of prototyping and can choose the most appropriate ones."
+- operate the services they build and identify issues in production","Prototyping","You can apply technical knowledge and experience to create or design workable prototypes, both programs and physical outputs. You understand parameters, restrictions and synergies.","practitioner","You see prototyping as a team activity, actively soliciting prototypes and testing with others. You establish design patterns and iterate them. You know a variety of methods of prototyping and can choose the most appropriate ones."
 "Technical job","Software developer","Developer","A software developer designs, runs and improves software that meets user needs.","A developer delivers software components that form part of a product.
 
 In this role, you will:
@@ -173,7 +173,7 @@ In this role, you will:
 - follow best-practice guidelines and help to improve those guidelines
 - write clean, secure and well-tested code
 - coach and mentor more junior colleagues
-- operate the services they build and identify issues in production","Service support","TBC","working","You can help fix faults following agreed procedures. You can carry out agreed maintenance tasks on infrastructure."
+- operate the services they build and identify issues in production","Service support","You can maintain and support services.","working","You can help fix faults following agreed procedures. You can carry out agreed maintenance tasks on infrastructure."
 "Technical job","Software developer","Developer","A software developer designs, runs and improves software that meets user needs.","A developer delivers software components that form part of a product.
 
 In this role, you will:
@@ -181,7 +181,7 @@ In this role, you will:
 - follow best-practice guidelines and help to improve those guidelines
 - write clean, secure and well-tested code
 - coach and mentor more junior colleagues
-- operate the services they build and identify issues in production","Systems design","TBC","working","You can translate logical designs into physical designs. You can produce detailed designs. You know how to document all work using required standards, methods and tools, including prototyping tools where appropriate. You can design systems characterised by managed levels of risk, manageable business and technical complexity, and meaningful impact. You can work with well understood technology and identify appropriate patterns."
+- operate the services they build and identify issues in production","Systems design",,"working","You can translate logical designs into physical designs. You can produce detailed designs. You know how to document all work using required standards, methods and tools, including prototyping tools where appropriate. You can design systems characterised by managed levels of risk, manageable business and technical complexity, and meaningful impact. You can work with well understood technology and identify appropriate patterns."
 "Technical job","Software developer","Developer","A software developer designs, runs and improves software that meets user needs.","A developer delivers software components that form part of a product.
 
 In this role, you will:
@@ -189,7 +189,7 @@ In this role, you will:
 - follow best-practice guidelines and help to improve those guidelines
 - write clean, secure and well-tested code
 - coach and mentor more junior colleagues
-- operate the services they build and identify issues in production","Systems integration","TBC","working","You can build and test simple interfaces between systems, or work on more complex integration as part of a wider team."
+- operate the services they build and identify issues in production","Systems integration",,"working","You can build and test simple interfaces between systems, or work on more complex integration as part of a wider team."
 "Technical job","Software developer","Developer","A software developer designs, runs and improves software that meets user needs.","A developer delivers software components that form part of a product.
 
 In this role, you will:
@@ -197,7 +197,7 @@ In this role, you will:
 - follow best-practice guidelines and help to improve those guidelines
 - write clean, secure and well-tested code
 - coach and mentor more junior colleagues
-- operate the services they build and identify issues in production","User focus","TBC","practitioner","You know how to collaborate with user researchers and can represent users internally. You understand the difference between user needs and the desires of the user. You can champion user research to focus on all users. You can prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used."
+- operate the services they build and identify issues in production","User focus","You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet these needs and engage in meaningful interactions and relationships with users. You put users first. You can manage competing priorities.","practitioner","You know how to collaborate with user researchers and can represent users internally. You understand the difference between user needs and the desires of the user. You can champion user research to focus on all users. You can prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used."
 "Technical job","Software developer","Senior developer","A software developer designs, runs and improves software that meets user needs.","A senior developer delivers and integrates software to form a complete service.
 
 At this level, you will:
@@ -206,7 +206,7 @@ At this level, you will:
 - work with other disciplines to understand what needs to be built
 - coach and mentor more junior colleagues
 - operate the production services you build
-- find ways to improve system robustness, resilience and stability","Availability and capacity management","TBC","working","You can manage the service components to ensure they meet business needs and performance targets."
+- find ways to improve system robustness, resilience and stability","Availability and capacity management","You can define, analyse, plan, forecast, measure, maintain and improve all aspects of the availability of services, including power. You control and manage service availability to meet the needs of the business in a cost-effective manner. This includes managing the capability, functionality and sustainability of service components (for example, hardware, software, network resources and software/infrastructure as a service).","working","You can manage the service components to ensure they meet business needs and performance targets."
 "Technical job","Software developer","Senior developer","A software developer designs, runs and improves software that meets user needs.","A senior developer delivers and integrates software to form a complete service.
 
 At this level, you will:
@@ -215,7 +215,7 @@ At this level, you will:
 - work with other disciplines to understand what needs to be built
 - coach and mentor more junior colleagues
 - operate the production services you build
-- find ways to improve system robustness, resilience and stability","Development process optimisation","TBC","working","You can identify process optimisation opportunities with guidance and contribute to the implementation of proposed solutions."
+- find ways to improve system robustness, resilience and stability","Development process optimisation",,"working","You can identify process optimisation opportunities with guidance and contribute to the implementation of proposed solutions."
 "Technical job","Software developer","Senior developer","A software developer designs, runs and improves software that meets user needs.","A senior developer delivers and integrates software to form a complete service.
 
 At this level, you will:
@@ -224,7 +224,7 @@ At this level, you will:
 - work with other disciplines to understand what needs to be built
 - coach and mentor more junior colleagues
 - operate the production services you build
-- find ways to improve system robustness, resilience and stability","Information security","TBC","practitioner","You understand information security, and can design solutions and services with security controls embedded, specifically engineered as mitigation against security threats as a core part of the solutions and services."
+- find ways to improve system robustness, resilience and stability","Information security","You maintain the security, confidentiality and integrity of information systems through compliance with relevant legislation and regulations. You design, implement and operate controls and management strategies to allow this.","practitioner","You understand information security, and can design solutions and services with security controls embedded, specifically engineered as mitigation against security threats as a core part of the solutions and services."
 "Technical job","Software developer","Senior developer","A software developer designs, runs and improves software that meets user needs.","A senior developer delivers and integrates software to form a complete service.
 
 At this level, you will:
@@ -233,7 +233,7 @@ At this level, you will:
 - work with other disciplines to understand what needs to be built
 - coach and mentor more junior colleagues
 - operate the production services you build
-- find ways to improve system robustness, resilience and stability","Modern standards approach","TBC","practitioner","You can use a modern standards approach competently and guide others in so doing."
+- find ways to improve system robustness, resilience and stability","Modern standards approach","You use a modern standards approach throughout automation and testing.","practitioner","You can use a modern standards approach competently and guide others in so doing."
 "Technical job","Software developer","Senior developer","A software developer designs, runs and improves software that meets user needs.","A senior developer delivers and integrates software to form a complete service.
 
 At this level, you will:
@@ -242,7 +242,7 @@ At this level, you will:
 - work with other disciplines to understand what needs to be built
 - coach and mentor more junior colleagues
 - operate the production services you build
-- find ways to improve system robustness, resilience and stability","Programming and build (software engineering)","TBC","practitioner","You can collaborate with others when necessary to review specifications. You can use these agreed specifications to design, code, test and document programs or scripts of medium to high complexity, using the right standards and tools."
+- find ways to improve system robustness, resilience and stability","Programming and build (software engineering)","You can use agreed security standards and specifications to design, create, test and document new or amended software.","practitioner","You can collaborate with others when necessary to review specifications. You can use these agreed specifications to design, code, test and document programs or scripts of medium to high complexity, using the right standards and tools."
 "Technical job","Software developer","Senior developer","A software developer designs, runs and improves software that meets user needs.","A senior developer delivers and integrates software to form a complete service.
 
 At this level, you will:
@@ -251,7 +251,7 @@ At this level, you will:
 - work with other disciplines to understand what needs to be built
 - coach and mentor more junior colleagues
 - operate the production services you build
-- find ways to improve system robustness, resilience and stability","Prototyping","TBC","practitioner","You see prototyping as a team activity, actively soliciting prototypes and testing with others. You establish design patterns and iterate them. You know a variety of methods of prototyping and can choose the most appropriate ones."
+- find ways to improve system robustness, resilience and stability","Prototyping","You can apply technical knowledge and experience to create or design workable prototypes, both programs and physical outputs. You understand parameters, restrictions and synergies.","practitioner","You see prototyping as a team activity, actively soliciting prototypes and testing with others. You establish design patterns and iterate them. You know a variety of methods of prototyping and can choose the most appropriate ones."
 "Technical job","Software developer","Senior developer","A software developer designs, runs and improves software that meets user needs.","A senior developer delivers and integrates software to form a complete service.
 
 At this level, you will:
@@ -260,7 +260,7 @@ At this level, you will:
 - work with other disciplines to understand what needs to be built
 - coach and mentor more junior colleagues
 - operate the production services you build
-- find ways to improve system robustness, resilience and stability","Service support","TBC","practitioner","You can identify, locate and fix faults."
+- find ways to improve system robustness, resilience and stability","Service support","You can maintain and support services.","practitioner","You can identify, locate and fix faults."
 "Technical job","Software developer","Senior developer","A software developer designs, runs and improves software that meets user needs.","A senior developer delivers and integrates software to form a complete service.
 
 At this level, you will:
@@ -269,7 +269,7 @@ At this level, you will:
 - work with other disciplines to understand what needs to be built
 - coach and mentor more junior colleagues
 - operate the production services you build
-- find ways to improve system robustness, resilience and stability","Systems design","TBC","practitioner","You can design systems characterised by medium levels of risk, impact, and business or technical complexity. You can select appropriate design standards, methods and tools, and ensure they are applied effectively. You know how to review the systems designs of others to ensure the selection of appropriate technology, efficient use of resources and integration of multiple systems and technology."
+- find ways to improve system robustness, resilience and stability","Systems design",,"practitioner","You can design systems characterised by medium levels of risk, impact, and business or technical complexity. You can select appropriate design standards, methods and tools, and ensure they are applied effectively. You know how to review the systems designs of others to ensure the selection of appropriate technology, efficient use of resources and integration of multiple systems and technology."
 "Technical job","Software developer","Senior developer","A software developer designs, runs and improves software that meets user needs.","A senior developer delivers and integrates software to form a complete service.
 
 At this level, you will:
@@ -278,7 +278,7 @@ At this level, you will:
 - work with other disciplines to understand what needs to be built
 - coach and mentor more junior colleagues
 - operate the production services you build
-- find ways to improve system robustness, resilience and stability","Systems integration","TBC","practitioner","You can define the integration build. You can coordinate build activities across systems and can undertake and support integration testing activities."
+- find ways to improve system robustness, resilience and stability","Systems integration",,"practitioner","You can define the integration build. You can coordinate build activities across systems and can undertake and support integration testing activities."
 "Technical job","Software developer","Senior developer","A software developer designs, runs and improves software that meets user needs.","A senior developer delivers and integrates software to form a complete service.
 
 At this level, you will:
@@ -287,7 +287,7 @@ At this level, you will:
 - work with other disciplines to understand what needs to be built
 - coach and mentor more junior colleagues
 - operate the production services you build
-- find ways to improve system robustness, resilience and stability","User focus","TBC","practitioner","You can collaborate with user researchers and sell or represent users internally. You can explain the difference between user needs and the desires of the user. You can champion user research to focus on all users. You know how to prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used."
+- find ways to improve system robustness, resilience and stability","User focus","You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet these needs and engage in meaningful interactions and relationships with users. You put users first. You can manage competing priorities.","practitioner","You can collaborate with user researchers and sell or represent users internally. You can explain the difference between user needs and the desires of the user. You can champion user research to focus on all users. You know how to prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used."
 "Technical job","Software developer","Lead developer","A software developer designs, runs and improves software that meets user needs.","A lead developer leads development on one or a small number of related project teams.
 
 At this level, you will:
@@ -296,7 +296,7 @@ At this level, you will:
 - be involved in identifying appropriate technology and approaches, deciding when software should be written
 - contribute to the developer community
 - provide technical leadership, coach and mentor your team
-- promote knowledge sharing and adoption of good practice","Availability and capacity management","TBC","working","Manage the service components to ensure they meet business needs and performance targets."
+- promote knowledge sharing and adoption of good practice","Availability and capacity management","You can define, analyse, plan, forecast, measure, maintain and improve all aspects of the availability of services, including power. You control and manage service availability to meet the needs of the business in a cost-effective manner. This includes managing the capability, functionality and sustainability of service components (for example, hardware, software, network resources and software/infrastructure as a service).","working","Manage the service components to ensure they meet business needs and performance targets."
 "Technical job","Software developer","Lead developer","A software developer designs, runs and improves software that meets user needs.","A lead developer leads development on one or a small number of related project teams.
 
 At this level, you will:
@@ -305,7 +305,7 @@ At this level, you will:
 - be involved in identifying appropriate technology and approaches, deciding when software should be written
 - contribute to the developer community
 - provide technical leadership, coach and mentor your team
-- promote knowledge sharing and adoption of good practice","Development process optimisation","TBC","working","You can identify process optimisation opportunities with guidance and contribute to the implementation of proposed solutions."
+- promote knowledge sharing and adoption of good practice","Development process optimisation",,"working","You can identify process optimisation opportunities with guidance and contribute to the implementation of proposed solutions."
 "Technical job","Software developer","Lead developer","A software developer designs, runs and improves software that meets user needs.","A lead developer leads development on one or a small number of related project teams.
 
 At this level, you will:
@@ -314,7 +314,7 @@ At this level, you will:
 - be involved in identifying appropriate technology and approaches, deciding when software should be written
 - contribute to the developer community
 - provide technical leadership, coach and mentor your team
-- promote knowledge sharing and adoption of good practice","Information security","TBC","practitioner","You have an appreciation of information security, designing solutions and services with security controls embedded, specifically engineered as mitigation against security threats as a core part of the solutions and services."
+- promote knowledge sharing and adoption of good practice","Information security","You maintain the security, confidentiality and integrity of information systems through compliance with relevant legislation and regulations. You design, implement and operate controls and management strategies to allow this.","practitioner","You have an appreciation of information security, designing solutions and services with security controls embedded, specifically engineered as mitigation against security threats as a core part of the solutions and services."
 "Technical job","Software developer","Lead developer","A software developer designs, runs and improves software that meets user needs.","A lead developer leads development on one or a small number of related project teams.
 
 At this level, you will:
@@ -323,7 +323,7 @@ At this level, you will:
 - be involved in identifying appropriate technology and approaches, deciding when software should be written
 - contribute to the developer community
 - provide technical leadership, coach and mentor your team
-- promote knowledge sharing and adoption of good practice","Modern standards approach","TBC","expert","You demonstrate strong understanding and application of the most appropriate modern standards and practices. You will take responsibility for coaching and guiding others."
+- promote knowledge sharing and adoption of good practice","Modern standards approach","You use a modern standards approach throughout automation and testing.","expert","You demonstrate strong understanding and application of the most appropriate modern standards and practices. You will take responsibility for coaching and guiding others."
 "Technical job","Software developer","Lead developer","A software developer designs, runs and improves software that meets user needs.","A lead developer leads development on one or a small number of related project teams.
 
 At this level, you will:
@@ -332,7 +332,7 @@ At this level, you will:
 - be involved in identifying appropriate technology and approaches, deciding when software should be written
 - contribute to the developer community
 - provide technical leadership, coach and mentor your team
-- promote knowledge sharing and adoption of good practice","Programming and build (software engineering)","TBC","expert","You can advise on the right way to apply standards and methods, ensuring compliance. You can maintain technical responsibility for all the stages and iterations of a software development project. You can provide technical advice to stakeholders and set the team-based standards for programming tools and techniques."
+- promote knowledge sharing and adoption of good practice","Programming and build (software engineering)","You can use agreed security standards and specifications to design, create, test and document new or amended software.","expert","You can advise on the right way to apply standards and methods, ensuring compliance. You can maintain technical responsibility for all the stages and iterations of a software development project. You can provide technical advice to stakeholders and set the team-based standards for programming tools and techniques."
 "Technical job","Software developer","Lead developer","A software developer designs, runs and improves software that meets user needs.","A lead developer leads development on one or a small number of related project teams.
 
 At this level, you will:
@@ -341,7 +341,7 @@ At this level, you will:
 - be involved in identifying appropriate technology and approaches, deciding when software should be written
 - contribute to the developer community
 - provide technical leadership, coach and mentor your team
-- promote knowledge sharing and adoption of good practice","Prototyping","TBC","practitioner","You see prototyping as a team activity, actively soliciting prototypes and testing with others. You establish design patterns and iterate them. You know a variety of methods of prototyping and can choose the most appropriate ones."
+- promote knowledge sharing and adoption of good practice","Prototyping","You can apply technical knowledge and experience to create or design workable prototypes, both programs and physical outputs. You understand parameters, restrictions and synergies.","practitioner","You see prototyping as a team activity, actively soliciting prototypes and testing with others. You establish design patterns and iterate them. You know a variety of methods of prototyping and can choose the most appropriate ones."
 "Technical job","Software developer","Lead developer","A software developer designs, runs and improves software that meets user needs.","A lead developer leads development on one or a small number of related project teams.
 
 At this level, you will:
@@ -350,7 +350,7 @@ At this level, you will:
 - be involved in identifying appropriate technology and approaches, deciding when software should be written
 - contribute to the developer community
 - provide technical leadership, coach and mentor your team
-- promote knowledge sharing and adoption of good practice","Service support","TBC","practitioner","You can identify, locate and fix faults."
+- promote knowledge sharing and adoption of good practice","Service support","You can maintain and support services.","practitioner","You can identify, locate and fix faults."
 "Technical job","Software developer","Lead developer","A software developer designs, runs and improves software that meets user needs.","A lead developer leads development on one or a small number of related project teams.
 
 At this level, you will:
@@ -359,7 +359,7 @@ At this level, you will:
 - be involved in identifying appropriate technology and approaches, deciding when software should be written
 - contribute to the developer community
 - provide technical leadership, coach and mentor your team
-- promote knowledge sharing and adoption of good practice","Systems design","TBC","practitioner","You can design systems characterised by medium levels of risk, impact, and business or technical complexity. You can select appropriate design standards, methods and tools and ensure they are applied effectively. You can review the systems designs of others to ensure selection of appropriate technology, efficient use of resources and integration of multiple systems and technology."
+- promote knowledge sharing and adoption of good practice","Systems design",,"practitioner","You can design systems characterised by medium levels of risk, impact, and business or technical complexity. You can select appropriate design standards, methods and tools and ensure they are applied effectively. You can review the systems designs of others to ensure selection of appropriate technology, efficient use of resources and integration of multiple systems and technology."
 "Technical job","Software developer","Lead developer","A software developer designs, runs and improves software that meets user needs.","A lead developer leads development on one or a small number of related project teams.
 
 At this level, you will:
@@ -368,7 +368,7 @@ At this level, you will:
 - be involved in identifying appropriate technology and approaches, deciding when software should be written
 - contribute to the developer community
 - provide technical leadership, coach and mentor your team
-- promote knowledge sharing and adoption of good practice","Systems integration","TBC","practitioner","You can define the integration build. You can coordinate build activities across systems and understand how to undertake and support integration-testing activities."
+- promote knowledge sharing and adoption of good practice","Systems integration",,"practitioner","You can define the integration build. You can coordinate build activities across systems and understand how to undertake and support integration-testing activities."
 "Technical job","Software developer","Lead developer","A software developer designs, runs and improves software that meets user needs.","A lead developer leads development on one or a small number of related project teams.
 
 At this level, you will:
@@ -377,81 +377,81 @@ At this level, you will:
 - be involved in identifying appropriate technology and approaches, deciding when software should be written
 - contribute to the developer community
 - provide technical leadership, coach and mentor your team
-- promote knowledge sharing and adoption of good practice","User focus","TBC","practitioner","You can collaborate with user researchers and represent users internally. You can explain the difference between user needs and the desires of the user. You champion user research to focus on all users. You know how to prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used."
+- promote knowledge sharing and adoption of good practice","User focus","You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet these needs and engage in meaningful interactions and relationships with users. You put users first. You can manage competing priorities.","practitioner","You can collaborate with user researchers and represent users internally. You can explain the difference between user needs and the desires of the user. You champion user research to focus on all users. You know how to prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used."
 "Technical job","Software developer","Principal developer","A software developer designs, runs and improves software that meets user needs.","A principal developer leads and plans development across large or multiple teams.
 
 At this level, you will:
 - be an expert in many technical areas, or a specialist with very deep knowledge in a particular technical area
 - use this knowledge, and work with related disciplines, to keep multiple teams working effectively
 - develop capability by facilitating internal mobility, shape career paths and recruit talent, making sure they collaborate
-- identify, test and champion the adoption of emerging technologies","Availability and capacity management","TBC","practitioner","You ensure the correct implementation of standards and procedures, identifying capacity issues, stipulating the required changes and instigating these. You know how to initiate remedial action."
+- identify, test and champion the adoption of emerging technologies","Availability and capacity management","You can define, analyse, plan, forecast, measure, maintain and improve all aspects of the availability of services, including power. You control and manage service availability to meet the needs of the business in a cost-effective manner. This includes managing the capability, functionality and sustainability of service components (for example, hardware, software, network resources and software/infrastructure as a service).","practitioner","You ensure the correct implementation of standards and procedures, identifying capacity issues, stipulating the required changes and instigating these. You know how to initiate remedial action."
 "Technical job","Software developer","Principal developer","A software developer designs, runs and improves software that meets user needs.","A principal developer leads and plans development across large or multiple teams.
 
 At this level, you will:
 - be an expert in many technical areas, or a specialist with very deep knowledge in a particular technical area
 - use this knowledge, and work with related disciplines, to keep multiple teams working effectively
 - develop capability by facilitating internal mobility, shape career paths and recruit talent, making sure they collaborate
-- identify, test and champion the adoption of emerging technologies","Availability and capacity management","TBC","practitioner","You ensure the correct implementation of standards and procedures, identifying capacity issues, stipulating the required changes and instigating these. You know how to initiate remedial action."
+- identify, test and champion the adoption of emerging technologies","Availability and capacity management","You can define, analyse, plan, forecast, measure, maintain and improve all aspects of the availability of services, including power. You control and manage service availability to meet the needs of the business in a cost-effective manner. This includes managing the capability, functionality and sustainability of service components (for example, hardware, software, network resources and software/infrastructure as a service).","practitioner","You ensure the correct implementation of standards and procedures, identifying capacity issues, stipulating the required changes and instigating these. You know how to initiate remedial action."
 "Technical job","Software developer","Principal developer","A software developer designs, runs and improves software that meets user needs.","A principal developer leads and plans development across large or multiple teams.
 
 At this level, you will:
 - be an expert in many technical areas, or a specialist with very deep knowledge in a particular technical area
 - use this knowledge, and work with related disciplines, to keep multiple teams working effectively
 - develop capability by facilitating internal mobility, shape career paths and recruit talent, making sure they collaborate
-- identify, test and champion the adoption of emerging technologies","Development process optimisation (management)","TBC","expert","You can set strategy and manage resource allocation for solution development programmes. You liaise with client functions to establish business requirements; you can identify, propose, initiate and lead these programmes."
+- identify, test and champion the adoption of emerging technologies","Development process optimisation (management)",,"expert","You can set strategy and manage resource allocation for solution development programmes. You liaise with client functions to establish business requirements; you can identify, propose, initiate and lead these programmes."
 "Technical job","Software developer","Principal developer","A software developer designs, runs and improves software that meets user needs.","A principal developer leads and plans development across large or multiple teams.
 
 At this level, you will:
 - be an expert in many technical areas, or a specialist with very deep knowledge in a particular technical area
 - use this knowledge, and work with related disciplines, to keep multiple teams working effectively
 - develop capability by facilitating internal mobility, shape career paths and recruit talent, making sure they collaborate
-- identify, test and champion the adoption of emerging technologies","Information security","TBC","expert","You have a depth of knowledge in information security. You can design, quality review and quality assure solutions and services with security controls embedded, specifically engineered as mitigation against security threats as a core part of the solutions and services."
+- identify, test and champion the adoption of emerging technologies","Information security","You maintain the security, confidentiality and integrity of information systems through compliance with relevant legislation and regulations. You design, implement and operate controls and management strategies to allow this.","expert","You have a depth of knowledge in information security. You can design, quality review and quality assure solutions and services with security controls embedded, specifically engineered as mitigation against security threats as a core part of the solutions and services."
 "Technical job","Software developer","Principal developer","A software developer designs, runs and improves software that meets user needs.","A principal developer leads and plans development across large or multiple teams.
 
 At this level, you will:
 - be an expert in many technical areas, or a specialist with very deep knowledge in a particular technical area
 - use this knowledge, and work with related disciplines, to keep multiple teams working effectively
 - develop capability by facilitating internal mobility, shape career paths and recruit talent, making sure they collaborate
-- identify, test and champion the adoption of emerging technologies","Modern standards approach","TBC","expert","You demonstrate strong understanding and application of the most appropriate modern standards and practices. You will take responsibility for coaching and guiding others."
+- identify, test and champion the adoption of emerging technologies","Modern standards approach","You use a modern standards approach throughout automation and testing.","expert","You demonstrate strong understanding and application of the most appropriate modern standards and practices. You will take responsibility for coaching and guiding others."
 "Technical job","Software developer","Principal developer","A software developer designs, runs and improves software that meets user needs.","A principal developer leads and plans development across large or multiple teams.
 
 At this level, you will:
 - be an expert in many technical areas, or a specialist with very deep knowledge in a particular technical area
 - use this knowledge, and work with related disciplines, to keep multiple teams working effectively
 - develop capability by facilitating internal mobility, shape career paths and recruit talent, making sure they collaborate
-- identify, test and champion the adoption of emerging technologies","Programming and build (software engineering – management)","TBC","practitioner","You collaborate with others when necessary to review specifications and use these agreed specifications to design, code, test and document programs or scripts of medium-to-high complexity, using the right standards and tools."
+- identify, test and champion the adoption of emerging technologies","Programming and build (software engineering – management)",,"practitioner","You collaborate with others when necessary to review specifications and use these agreed specifications to design, code, test and document programs or scripts of medium-to-high complexity, using the right standards and tools."
 "Technical job","Software developer","Principal developer","A software developer designs, runs and improves software that meets user needs.","A principal developer leads and plans development across large or multiple teams.
 
 At this level, you will:
 - be an expert in many technical areas, or a specialist with very deep knowledge in a particular technical area
 - use this knowledge, and work with related disciplines, to keep multiple teams working effectively
 - develop capability by facilitating internal mobility, shape career paths and recruit talent, making sure they collaborate
-- identify, test and champion the adoption of emerging technologies","Prototyping","TBC","expert","You have experience of using a variety of methods of prototyping. You know how to share best practice and can coach others. You look at strategic service design end to end."
+- identify, test and champion the adoption of emerging technologies","Prototyping","You can apply technical knowledge and experience to create or design workable prototypes, both programs and physical outputs. You understand parameters, restrictions and synergies.","expert","You have experience of using a variety of methods of prototyping. You know how to share best practice and can coach others. You look at strategic service design end to end."
 "Technical job","Software developer","Principal developer","A software developer designs, runs and improves software that meets user needs.","A principal developer leads and plans development across large or multiple teams.
 
 At this level, you will:
 - be an expert in many technical areas, or a specialist with very deep knowledge in a particular technical area
 - use this knowledge, and work with related disciplines, to keep multiple teams working effectively
 - develop capability by facilitating internal mobility, shape career paths and recruit talent, making sure they collaborate
-- identify, test and champion the adoption of emerging technologies","Service support","TBC","practitioner","You can identify, locate and fix faults."
+- identify, test and champion the adoption of emerging technologies","Service support","You can maintain and support services.","practitioner","You can identify, locate and fix faults."
 "Technical job","Software developer","Principal developer","A software developer designs, runs and improves software that meets user needs.","A principal developer leads and plans development across large or multiple teams.
 
 At this level, you will:
 - be an expert in many technical areas, or a specialist with very deep knowledge in a particular technical area
 - use this knowledge, and work with related disciplines, to keep multiple teams working effectively
 - develop capability by facilitating internal mobility, shape career paths and recruit talent, making sure they collaborate
-- identify, test and champion the adoption of emerging technologies","Systems design","TBC","expert","You can design systems characterised by high levels of risk, impact, and business or technical complexity. You control system design practice within an enterprise or industry architecture. You influence industry-based models for the development of new technology applications. You develop effective implementation and procurement strategies, consistent with business needs. You ensure adherence to relevant technical strategies, policies, standards and practices."
+- identify, test and champion the adoption of emerging technologies","Systems design",,"expert","You can design systems characterised by high levels of risk, impact, and business or technical complexity. You control system design practice within an enterprise or industry architecture. You influence industry-based models for the development of new technology applications. You develop effective implementation and procurement strategies, consistent with business needs. You ensure adherence to relevant technical strategies, policies, standards and practices."
 "Technical job","Software developer","Principal developer","A software developer designs, runs and improves software that meets user needs.","A principal developer leads and plans development across large or multiple teams.
 
 At this level, you will:
 - be an expert in many technical areas, or a specialist with very deep knowledge in a particular technical area
 - use this knowledge, and work with related disciplines, to keep multiple teams working effectively
 - develop capability by facilitating internal mobility, shape career paths and recruit talent, making sure they collaborate
-- identify, test and champion the adoption of emerging technologies","Systems integration (management)","TBC","practitioner","You can define the integration build. You can coordinate build activities across systems and understand how to undertake and support integration testing activities."
+- identify, test and champion the adoption of emerging technologies","Systems integration (management)",,"practitioner","You can define the integration build. You can coordinate build activities across systems and understand how to undertake and support integration testing activities."
 "Technical job","Software developer","Principal developer","A software developer designs, runs and improves software that meets user needs.","A principal developer leads and plans development across large or multiple teams.
 
 At this level, you will:
 - be an expert in many technical areas, or a specialist with very deep knowledge in a particular technical area
 - use this knowledge, and work with related disciplines, to keep multiple teams working effectively
 - develop capability by facilitating internal mobility, shape career paths and recruit talent, making sure they collaborate
-- identify, test and champion the adoption of emerging technologies","User focus","TBC","practitioner","You can collaborate with user researchers and sell or represent users internally. You can explain the difference between user needs and the desires of the user. You champion user research to focus on all users. You know how to prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used."
+- identify, test and champion the adoption of emerging technologies","User focus","You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet these needs and engage in meaningful interactions and relationships with users. You put users first. You can manage competing priorities.","practitioner","You can collaborate with user researchers and sell or represent users internally. You can explain the difference between user needs and the desires of the user. You champion user research to focus on all users. You know how to prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used."

@@ -15,6 +15,8 @@ const fields = [
 const opts = { fields };
 
 cheerioReq("https://www.gov.uk/guidance/software-developer", (err, $) => {
+    let family_skills = getSkills($);
+
     let role = {
       family: "Technical job",
       title: $("h1").text().trim(),
@@ -35,7 +37,7 @@ cheerioReq("https://www.gov.uk/guidance/software-developer", (err, $) => {
               skill_level_description.find('strong').remove();
               return {
                 name: name,
-                description: "TBC",
+                description: family_skills[name],
                 skill_level: skill_level_description.text().substring(3).match(/\(Relevant skill level: (.*?)\)/)[1],
                 skill_level_description: skill_level_description.text().substring(3).replace(/\(Relevant skill level: (.*?)\)/, '').trim(),
               };
@@ -45,6 +47,10 @@ cheerioReq("https://www.gov.uk/guidance/software-developer", (err, $) => {
         .toArray()
         //.slice(1, -1)
     };
+
+
+    
+
     //console.log(JSON.stringify(role, null, 2)); return;
     //console.log(JSON.stringify(formatForCSV(role), null, 2)); return;
 
@@ -54,6 +60,17 @@ cheerioReq("https://www.gov.uk/guidance/software-developer", (err, $) => {
     //console.log(data);
 });
 
+function getSkills($) {
+  let skills = {};
+  $('.govspeak h2').first().nextAll('h3').first().nextAll('ul').first().find('li')
+    .each( (i, skill) => {
+      let name = $(skill).find('strong').text().trim();
+      let description = $(skill);
+      description.find('strong').remove();
+      skills[name] = description.text().substring(3).trim();
+    });
+  return skills;
+}
 
 function formatForCSV(role) {
   var data = [];

@@ -9,7 +9,8 @@ const fields = [
   'skills_they_need',
   'skill_name',
   'skill_description',
-  'skill_level'
+  'skill_level',
+  'skill_level_description'
 ];
 const opts = { fields };
 
@@ -28,10 +29,15 @@ cheerioReq("https://www.gov.uk/guidance/software-developer", (err, $) => {
             duties: $(level).next('p').next('ul').find('li').map( (i, duty) => {
               return $(duty).text().trim();
             }).toArray(),
-            skills: $(level).next('p').next('ul').next('h3').next('ul').find('li').map( (i, duty) => {
+            skills: $(level).nextAll('h3').first().next('ul').find('li').map( (i, duty) => {
+              let name = $(duty).find('strong').text().trim();
+              let skill_level_description = $(duty);
+              skill_level_description.find('strong').remove();
               return {
-                name: $(duty).find('strong').text().trim(),
-                description: $(duty).text().trim()
+                name: name,
+                description: "TBC",
+                skill_level: skill_level_description.text().substring(3).match(/\(Relevant skill level: (.*?)\)/)[1],
+                skill_level_description: skill_level_description.text().substring(3).replace(/\(Relevant skill level: (.*?)\)/, '').trim(),
               };
             }).toArray()
           }
@@ -40,9 +46,9 @@ cheerioReq("https://www.gov.uk/guidance/software-developer", (err, $) => {
         //.slice(1, -1)
     };
     //console.log(JSON.stringify(role, null, 2)); return;
-    //console.log(JSON.stringify(formatForCSV(role), null, 2));
+    //console.log(JSON.stringify(formatForCSV(role), null, 2)); return;
 
-    const json2csvParser = new Parser({ fields });
+    const json2csvParser = new Parser(opts);
     const csv = json2csvParser.parse(formatForCSV(role));
     console.log(csv);
     //console.log(data);
@@ -61,7 +67,8 @@ function formatForCSV(role) {
         skills_they_need: `${level.description}\n\n${level.duties_pretext}\n${level.duties.map(d => `- ${d}`).join('\n')}`,
         skill_name: skill.name,
         skill_description: skill.description,
-        skill_level: skill.description.match(/\(Relevant skill level: (.*?)\)/)[1]
+        skill_level: skill.skill_level,
+        skill_level_description: skill.skill_level_description
       });
     });
   });
